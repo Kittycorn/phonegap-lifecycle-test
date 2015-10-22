@@ -19,5 +19,5 @@
 		var key1[i] = value[i-1];
 		var value1[i] = window.localStorage.getItem(key1[i]);
 	}
-	alert(value);
+	alert(number);
     }
