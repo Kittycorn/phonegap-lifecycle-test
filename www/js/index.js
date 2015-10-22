@@ -8,4 +8,6 @@
 
 	var key = "bottle";
 	var value = window.localStorage.getItem(key);
+	
+	alert(value);
     }
